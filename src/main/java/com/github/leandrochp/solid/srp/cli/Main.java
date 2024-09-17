@@ -1,7 +1,6 @@
-package com.github.leandrochp.solid.srp;
+package com.github.leandrochp.solid.srp.cli;
 
 import com.github.leandrochp.solid.srp.application.Cotuba;
-import com.github.leandrochp.solid.srp.cli.LeitorOpcoesCLI;
 
 import java.nio.file.Path;
 
